@@ -1,15 +1,23 @@
-header {
-    background-color: rebeccapurple;
-}
-
-.slider {
-    width: 100%;
-}
-
-.slider-two {
-    background: rgb(172, 47, 30);
-}
-
-.slider-one {
-    background: rgb(209, 32, 115);
-}
+    header {
+        background-color: rebeccapurple;
+    }
+    
+    .slider {
+        width: 100%;
+    }
+    
+    .slider-two {
+        background: rgb(172, 47, 30);
+    }
+    
+    .slider-one {
+        background: rgb(209, 32, 115);
+    }
+    
+    footer .footer-one {
+        background: rgb(28, 179, 103);
+    }
+    
+    footer .footer-two {
+        background: rgb(18, 62, 129);
+    }
