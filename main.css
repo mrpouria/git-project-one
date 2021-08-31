@@ -1,3 +1,15 @@
 header {
     background-color: rebeccapurple;
 }
+
+.slider {
+    width: 100%;
+}
+
+.slider-two {
+    background: rgb(172, 47, 30);
+}
+
+.slider-one {
+    background: rgb(209, 32, 115);
+}
